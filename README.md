@@ -17,7 +17,7 @@ Show-Command $env:HOMEPATH\EnableBassBoost.ps1
 ```
 # When is it needed?
 - HDMI, Display Port, Digital Optical Output playback devices usually doesn't have it
-- if you can not find an audio driver version which adds loudness equalisation to any of your playback devices
+- if you can not find an audio driver version which adds bass boost to any of your playback devices
 - you can't enable it globally in your driver
 
 # Why does it need to be scripted?
