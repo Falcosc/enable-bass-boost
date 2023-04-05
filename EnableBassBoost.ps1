@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
     automatically adds and enables Bass Boost to any playback device
 .DESCRIPTION
