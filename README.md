@@ -7,6 +7,8 @@ Automatically adds and enables Bass Boost to any playback device.
 
 Bass Boost works by reducing the gain of higher frequencies to avoid clipping, which means you have to increase volume. If you don't have enough amplification to spare to handle low volume audio sources, you could use `-enableLoudness` to increase source audio gain.
 
+Only looking for loudness equalisation? Better use the simpler version of this script https://github.com/Falcosc/enable-loudness-equalisation
+
 # How to Download and Run
 run in powershell
 ```
