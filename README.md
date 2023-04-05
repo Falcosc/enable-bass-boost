@@ -16,6 +16,7 @@ Invoke-WebRequest https://raw.githubusercontent.com/Falcosc/enable-bass-boost/ma
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Get-Help $env:HOMEPATH\EnableBassBoost.ps1 -ShowWindow
 Show-Command $env:HOMEPATH\EnableBassBoost.ps1
+
 ```
 # When is it needed?
 - HDMI, Display Port, Digital Optical Output playback devices usually doesn't have it
